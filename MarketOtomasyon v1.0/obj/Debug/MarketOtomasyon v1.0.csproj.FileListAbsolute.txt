@@ -1,0 +1,132 @@
+C:\Users\Sergen\Desktop\MarketOtomasyon v1.0\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe.config
+C:\Users\Sergen\Desktop\MarketOtomasyon v1.0\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Sergen\Desktop\MarketOtomasyon v1.0\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Sergen\Desktop\MarketOtomasyon v1.0\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Sergen\Desktop\MarketOtomasyon v1.0\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Form1.resources
+C:\Users\Sergen\Desktop\MarketOtomasyon v1.0\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Properties.Resources.resources
+C:\Users\Sergen\Desktop\MarketOtomasyon v1.0\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csproj.GenerateResource.Cache
+C:\Users\Sergen\Desktop\MarketOtomasyon v1.0\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Sergen\Desktop\MarketOtomasyon v1.0\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon v1.0\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe.config
+C:\Users\Win8\Desktop\MarketOtomasyon v1.0\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\MarketOtomasyon v1.0\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon v1.0\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\MarketOtomasyon v1.0\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon v1.0\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Win8\Desktop\MarketOtomasyon v1.0\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Form1.resources
+C:\Users\Win8\Desktop\MarketOtomasyon v1.0\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Properties.Resources.resources
+C:\Users\Win8\Desktop\MarketOtomasyon v1.0\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csproj.GenerateResource.Cache
+C:\Users\Win8\Desktop\MarketOtomasyon v1.1\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe.config
+C:\Users\Win8\Desktop\MarketOtomasyon v1.1\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\MarketOtomasyon v1.1\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon v1.1\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\MarketOtomasyon v1.1\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon v1.1\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Win8\Desktop\MarketOtomasyon v1.1\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Form1.resources
+C:\Users\Win8\Desktop\MarketOtomasyon v1.1\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Properties.Resources.resources
+C:\Users\Win8\Desktop\MarketOtomasyon v1.1\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csproj.GenerateResource.Cache
+C:\Users\Win8\Desktop\MarketOtomasyon v1.2\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe.config
+C:\Users\Win8\Desktop\MarketOtomasyon v1.2\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\MarketOtomasyon v1.2\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon v1.2\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\MarketOtomasyon v1.2\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon v1.2\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Win8\Desktop\MarketOtomasyon v1.2\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Form1.resources
+C:\Users\Win8\Desktop\MarketOtomasyon v1.2\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Properties.Resources.resources
+C:\Users\Win8\Desktop\MarketOtomasyon v1.2\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csproj.GenerateResource.Cache
+C:\Users\Sergen\Desktop\Market Otomasyon\MarketOtomasyon v1.3\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe.config
+C:\Users\Sergen\Desktop\Market Otomasyon\MarketOtomasyon v1.3\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Sergen\Desktop\Market Otomasyon\MarketOtomasyon v1.3\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Sergen\Desktop\Market Otomasyon\MarketOtomasyon v1.3\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Sergen\Desktop\Market Otomasyon\MarketOtomasyon v1.3\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Sergen\Desktop\Market Otomasyon\MarketOtomasyon v1.3\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Sergen\Desktop\Market Otomasyon\MarketOtomasyon v1.3\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Form1.resources
+C:\Users\Sergen\Desktop\Market Otomasyon\MarketOtomasyon v1.3\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Properties.Resources.resources
+C:\Users\Sergen\Desktop\Market Otomasyon\MarketOtomasyon v1.3\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csproj.GenerateResource.Cache
+C:\Users\Win8\Desktop\MarketOtomasyon v1.4\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe.config
+C:\Users\Win8\Desktop\MarketOtomasyon v1.4\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\MarketOtomasyon v1.4\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon v1.5\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe.config
+C:\Users\Win8\Desktop\MarketOtomasyon v1.5\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\MarketOtomasyon v1.5\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon v1.5\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Win8\Desktop\MarketOtomasyon v1.5\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Form1.resources
+C:\Users\Win8\Desktop\MarketOtomasyon v1.5\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Properties.Resources.resources
+C:\Users\Win8\Desktop\MarketOtomasyon v1.5\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csproj.GenerateResource.Cache
+C:\Users\Win8\Desktop\MarketOtomasyon v1.5\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\MarketOtomasyon v1.5\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon v1.6\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe.config
+C:\Users\Win8\Desktop\MarketOtomasyon v1.6\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\MarketOtomasyon v1.6\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon v1.6\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\MarketOtomasyon v1.6\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon v1.6\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Win8\Desktop\MarketOtomasyon v1.6\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Form1.resources
+C:\Users\Win8\Desktop\MarketOtomasyon v1.6\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Properties.Resources.resources
+C:\Users\Win8\Desktop\MarketOtomasyon v1.6\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csproj.GenerateResource.Cache
+C:\Users\Sergen\Desktop\MarketOtomasyon-v1.6\MarketOtomasyon v1.6\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe.config
+C:\Users\Sergen\Desktop\MarketOtomasyon-v1.6\MarketOtomasyon v1.6\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Sergen\Desktop\MarketOtomasyon-v1.6\MarketOtomasyon v1.6\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Sergen\Desktop\MarketOtomasyon-v1.6\MarketOtomasyon v1.6\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Sergen\Desktop\MarketOtomasyon-v1.6\MarketOtomasyon v1.6\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Sergen\Desktop\MarketOtomasyon-v1.6\MarketOtomasyon v1.6\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Sergen\Desktop\MarketOtomasyon-v1.6\MarketOtomasyon v1.6\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Form1.resources
+C:\Users\Sergen\Desktop\MarketOtomasyon-v1.6\MarketOtomasyon v1.6\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Properties.Resources.resources
+C:\Users\Sergen\Desktop\MarketOtomasyon-v1.6\MarketOtomasyon v1.6\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csproj.GenerateResource.Cache
+C:\Users\Win8\Desktop\MarketOtomasyon-v1.7\MarketOtomasyon v1.6\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe.config
+C:\Users\Win8\Desktop\MarketOtomasyon-v1.7\MarketOtomasyon v1.6\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\MarketOtomasyon-v1.7\MarketOtomasyon v1.6\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon-v1.7\MarketOtomasyon v1.6\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\MarketOtomasyon-v1.7\MarketOtomasyon v1.6\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon-v1.7\MarketOtomasyon v1.6\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Win8\Desktop\MarketOtomasyon-v1.7\MarketOtomasyon v1.6\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Form1.resources
+C:\Users\Win8\Desktop\MarketOtomasyon-v1.7\MarketOtomasyon v1.6\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Properties.Resources.resources
+C:\Users\Win8\Desktop\MarketOtomasyon-v1.7\MarketOtomasyon v1.6\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csproj.GenerateResource.Cache
+C:\Users\Win8\Desktop\proje\MarketOtomasyon v1.8\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe.config
+C:\Users\Win8\Desktop\proje\MarketOtomasyon v1.8\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\proje\MarketOtomasyon v1.8\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\proje\MarketOtomasyon v1.8\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\proje\MarketOtomasyon v1.8\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\proje\MarketOtomasyon v1.8\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Win8\Desktop\proje\MarketOtomasyon v1.8\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Form1.resources
+C:\Users\Win8\Desktop\proje\MarketOtomasyon v1.8\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Properties.Resources.resources
+C:\Users\Win8\Desktop\proje\MarketOtomasyon v1.8\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csproj.GenerateResource.Cache
+C:\Users\Win8\Desktop\MarketOtomasyon v1.8\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe.config
+C:\Users\Win8\Desktop\MarketOtomasyon v1.8\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\MarketOtomasyon v1.8\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon v1.8\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\MarketOtomasyon v1.8\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon v1.8\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Win8\Desktop\MarketOtomasyon v1.8\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Form1.resources
+C:\Users\Win8\Desktop\MarketOtomasyon v1.8\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Properties.Resources.resources
+C:\Users\Win8\Desktop\MarketOtomasyon v1.8\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csproj.GenerateResource.Cache
+C:\Users\Sergen\Desktop\MarketOtomasyon v1.9\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe.config
+C:\Users\Sergen\Desktop\MarketOtomasyon v1.9\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Sergen\Desktop\MarketOtomasyon v1.9\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Sergen\Desktop\MarketOtomasyon v1.9\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Sergen\Desktop\MarketOtomasyon v1.9\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Sergen\Desktop\MarketOtomasyon v1.9\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Sergen\Desktop\MarketOtomasyon v1.9\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Form1.resources
+C:\Users\Sergen\Desktop\MarketOtomasyon v1.9\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Properties.Resources.resources
+C:\Users\Sergen\Desktop\MarketOtomasyon v1.9\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csproj.GenerateResource.Cache
+C:\Users\Win8\Desktop\MarketOtomasyon v1.10\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe.config
+C:\Users\Win8\Desktop\MarketOtomasyon v1.10\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\MarketOtomasyon v1.10\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon v1.10\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\MarketOtomasyon v1.10\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon v1.10\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Win8\Desktop\MarketOtomasyon v1.10\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Form1.resources
+C:\Users\Win8\Desktop\MarketOtomasyon v1.10\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Properties.Resources.resources
+C:\Users\Win8\Desktop\MarketOtomasyon v1.10\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csproj.GenerateResource.Cache
+C:\Users\Win8\Desktop\MarketOtomasyon v1.11\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe.config
+C:\Users\Win8\Desktop\MarketOtomasyon v1.11\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\MarketOtomasyon v1.11\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon v1.11\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe
+C:\Users\Win8\Desktop\MarketOtomasyon v1.11\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.pdb
+C:\Users\Win8\Desktop\MarketOtomasyon v1.11\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Win8\Desktop\MarketOtomasyon v1.11\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Form1.resources
+C:\Users\Win8\Desktop\MarketOtomasyon v1.11\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon_v1._0.Properties.Resources.resources
+C:\Users\Win8\Desktop\MarketOtomasyon v1.11\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Ders Notları\C# Slaytlar ve Örnekler\Market Otomasyon Projesi\MarketOtomasyon v1.11\MarketOtomasyon v1.0\bin\Debug\MarketOtomasyon v1.0.exe.config
+C:\Users\ASUS\Desktop\Ders Notları\C# Slaytlar ve Örnekler\Market Otomasyon Projesi\MarketOtomasyon v1.11\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.exe
+C:\Users\ASUS\Desktop\Ders Notları\C# Slaytlar ve Örnekler\Market Otomasyon Projesi\MarketOtomasyon v1.11\MarketOtomasyon v1.0\obj\Debug\MarketOtomasyon v1.0.pdb
